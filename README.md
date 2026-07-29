@@ -69,4 +69,4 @@ Le matériel utilisé pour ce projet — liens affiliés Amazon :
 
 ## 📄 Licence
 
-MIT — voir [LICENSE](LICENSE). Par **koua29** (Arnaud). Police *Anton* © The Anton Project (OFL 1.1).
+MIT — voir [LICENSE](LICENSE). Par **koua29**. Police *Anton* © The Anton Project (OFL 1.1).
